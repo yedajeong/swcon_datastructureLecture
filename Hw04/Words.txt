@@ -1,0 +1,5 @@
+apple: a hard, round fruit with a green or red skin
+banana: a long, white fruit with a yellow skin
+melon: a large, round, sweet fruit with a thick, green or yellow skin
+tomato: a soft, round, red fruit eaten in salads or as a vegetable
+potato: a round, white vegetable that grows in the ground

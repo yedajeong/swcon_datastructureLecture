@@ -1,0 +1,13 @@
+<STARTING>
+Pattern: ap
+Word: apple
+Meaning: a hard, round fruit with a green or red skin
+<ENDING>
+Pattern: to
+Words: potato	tomato	
+<CONTAINING>
+Pattern: lon
+Word: melon
+Meaning: a large, round, sweet fruit with a thick, green or yellow skin
+<STARTING>
+There's no aple in this dictionary
